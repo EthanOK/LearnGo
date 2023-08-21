@@ -1,3 +1,0 @@
-# LearnGo
-
-https://studygolang.com/
