@@ -16,8 +16,6 @@ or
 
 `hello.exe`
 
-## Hello Go
+## Books
 
-```
-
-```
+[用Go来做以太坊开发](https://goethereumbook.org/zh/) 
