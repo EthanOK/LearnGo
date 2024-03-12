@@ -19,3 +19,10 @@ or
 ## Books
 
 [用 Go 来做以太坊开发](https://goethereumbook.org/zh/)
+
+## My Exercise Project
+`https://github.com/EthanOK/go-basic-code`
+
+`https://github.com/EthanOK/ethereum-dev`
+
+`https://github.com/EthanOK/gin-chat`
