@@ -26,3 +26,5 @@ or
 ### [ethereum-dev](https://github.com/EthanOK/ethereum-dev)
  
 ### [gin-chat](https://github.com/EthanOK/gin-chat)
+
+### [concurrent-go](https://github.com/EthanOK/concurrent-go)
